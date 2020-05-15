@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\CshGit2\CshGit2\bin\Debug\CshGit2.exe.config
+C:\Users\acer\source\repos\CshGit2\CshGit2\bin\Debug\CshGit2.exe
+C:\Users\acer\source\repos\CshGit2\CshGit2\bin\Debug\CshGit2.pdb
+C:\Users\acer\source\repos\CshGit2\CshGit2\obj\Debug\CshGit2.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\CshGit2\CshGit2\obj\Debug\CshGit2.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CshGit2\CshGit2\obj\Debug\CshGit2.exe
+C:\Users\acer\source\repos\CshGit2\CshGit2\obj\Debug\CshGit2.pdb
